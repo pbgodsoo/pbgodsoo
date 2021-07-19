@@ -1,6 +1,5 @@
-### Welcome I'm Beomsoo 👋
-
-<hr><br>
+# Welcome I'm Beomsoo 👋
+<br>
 
 ### Introduction
 - 안녕하세요 새내기 개발자입니다.
