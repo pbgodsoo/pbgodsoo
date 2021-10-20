@@ -6,7 +6,7 @@
 - 능숙한 개발자가 되기 위해 꾸준히 노력하겠습니다.
 
 ### Skills 
--   <b>C</b>,  JAVA
+-   <b>C</b>, C++, JAVA
 -   python, R
 -   <b>Spring</b>, MySQL
 -   HTML, CSS, JavaScript
