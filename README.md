@@ -7,7 +7,7 @@
 
 ### Skills 
 -   <b>C</b>, C++, JAVA
--   python, R
+-   python, <b>Swift</b>
 -   <b>Spring</b>, MySQL
 -   HTML, CSS, JavaScript
 
