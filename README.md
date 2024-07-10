@@ -21,8 +21,6 @@
 <b>Phone</b> <b>+82 10 5582 7532</b><br>
 <b>email</b> linoleca@naver.com<br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pbgodsoo&count_private=true&theme=dark&show_icons=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pbgodsoo&layout=compact)
 
 
