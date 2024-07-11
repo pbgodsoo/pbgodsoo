@@ -1,6 +1,5 @@
 # Welcome I'm Beomsoo 👋
 <br>
-
 ### Introduction
 - 안녕하세요 새내기 개발자입니다.
 - 능숙한 개발자가 되기 위해 꾸준히 노력하겠습니다.
