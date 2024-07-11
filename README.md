@@ -1,5 +1,6 @@
 # Welcome I'm Beomsoo 👋
 <br>
+
 ### Introduction
 - 안녕하세요 새내기 개발자입니다.
 - 능숙한 개발자가 되기 위해 꾸준히 노력하겠습니다.
@@ -19,7 +20,7 @@
 
 <b>email</b> linoleca@naver.com<br>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pbgodsoo&layout=compact)
 
 
 
