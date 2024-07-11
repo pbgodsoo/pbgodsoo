@@ -18,7 +18,6 @@
 
 ### contact Me 
 
-<b>Phone</b> <b>+82 10 5582 7532</b><br>
 <b>email</b> linoleca@naver.com<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pbgodsoo&layout=compact)
