@@ -15,8 +15,8 @@
 ### contact Me 
 
 <b>email</b> linoleca@naver.com<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pbgodsoo&layout=compact)
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pbgodsoo&layout=compact)-->
 
 
 
