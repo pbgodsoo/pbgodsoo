@@ -11,10 +11,6 @@
 -   <b>Spring</b>, MySQL
 -   HTML, CSS, JavaScript
 
-### Education
-
-- 건국대학교 글로컬캠퍼스 ICT융합공학부 소프트웨어전공 (20.03~)
-
 
 ### contact Me 
 
